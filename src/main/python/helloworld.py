@@ -1,8 +1,12 @@
+"""
+This is a simple module to demonstrate a hello world function in Python.
+"""
+
 import sys
 
 def helloworld(out):
     """
-    Printing a hello world message.
+    Print a hello world message.
 
     Args:
         out: Output stream to write the message to.
