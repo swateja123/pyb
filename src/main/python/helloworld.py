@@ -2,7 +2,7 @@ import sys
 
 def helloworld(out):
     """
-    Print a hello world message.
+    Printing a hello world message.
 
     Args:
         out: Output stream to write the message to.
