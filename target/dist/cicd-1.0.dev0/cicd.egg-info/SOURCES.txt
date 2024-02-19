@@ -1,0 +1,8 @@
+helloworld.py
+setup.py
+cicd.egg-info/PKG-INFO
+cicd.egg-info/SOURCES.txt
+cicd.egg-info/dependency_links.txt
+cicd.egg-info/namespace_packages.txt
+cicd.egg-info/top_level.txt
+cicd.egg-info/zip-safe
